@@ -1,6 +1,6 @@
 {
   "name": "joi-extension-date-outside",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Validate a date is outside a date range",
   "main": "index.js",
   "scripts": {
