@@ -1,0 +1,32 @@
+{
+  "name": "joi-extension-date-outside",
+  "version": "0.0.0",
+  "description": "Validate a date is outside a date range",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard && istanbul cover tape test.js"
+  },
+  "keywords": [
+    "joi",
+    "extension",
+    "date",
+    "outside",
+    "range",
+    "exclude",
+    "without",
+    "between",
+    "inbetween"
+  ],
+  "author": "Alan Shaw",
+  "license": "MIT",
+  "dependencies": {
+    "hoek": "^4.0.2",
+    "joi": "^9.0.4"
+  },
+  "devDependencies": {
+    "istanbul": "^0.4.5",
+    "moment": "^2.14.1",
+    "standard": "^8.0.0",
+    "tape": "^4.6.0"
+  }
+}
