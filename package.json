@@ -28,5 +28,13 @@
     "moment": "^2.14.1",
     "standard": "^8.0.0",
     "tape": "^4.6.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alanshaw/joi-extension-date-outside.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alanshaw/joi-extension-date-outside/issues"
+  },
+  "homepage": "https://github.com/alanshaw/joi-extension-date-outside#readme"
 }
