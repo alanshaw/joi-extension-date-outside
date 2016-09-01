@@ -1,4 +1,4 @@
-# joi-extension-date-outside
+# joi-extension-date-outside [![Build Status](https://travis-ci.org/alanshaw/joi-extension-date-outside.svg?branch=master)](https://travis-ci.org/alanshaw/joi-extension-date-outside) [![dependencies Status](https://david-dm.org/alanshaw/joi-extension-date-outside/status.svg)](https://david-dm.org/alanshaw/joi-extension-date-outside)
 
 Validate a date is outside a date range.
 
