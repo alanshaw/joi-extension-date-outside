@@ -45,7 +45,7 @@ var outsideRule = {
   }
 }
 
-const extension = {
+var extension = {
   base: Joi.date(),
   name: 'date',
   language: {
